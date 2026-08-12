@@ -40,7 +40,7 @@ The body acts as the main frame and provides support for the robot's components.
 
 The following image shows the main mechanical components and important design features.
 
-![Robotic Dog Mechanical Design](images/robot_detail.png)
+![Robotic_Dog_3D_Design](robot_detail.png)
 
 **Figure 1. Annotated initial mechanical design showing the main body, leg structure, joints, servo motors, center of gravity, and support base.**
 
