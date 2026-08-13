@@ -58,7 +58,6 @@ The proposed design provides a simple mechanical starting point for a quadruped 
 
 ## Author
 
-Wesal Ibrahim Alsharif
-
+Wesal Ibrahim Alshareef
 
 CS Student at Taif University
